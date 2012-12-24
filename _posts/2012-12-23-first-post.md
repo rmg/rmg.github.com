@@ -1,9 +1,8 @@
 ---
 layout: post
-category : meta
+category : blog
 tags : [blogging, projects]
 ---
-{% include JB/setup %}
 
 Finally getting around to setting up a development blog.
 
