@@ -3,27 +3,29 @@
     {{ content }}
   </div>
   <div class="span3">
-    <p class="lead well well-small">
-      <img src="http://www.gravatar.com/avatar/8bd1dd86bbf8705a5a702b86a2f3a390.png?s=200" /><br />
-      Ryan Graham
-    </p>
-    <p>
-      <a href="https://github.com/rmg"><img
+    <img class="img-polaroid"
+      src="http://www.gravatar.com/avatar/8bd1dd86bbf8705a5a702b86a2f3a390.png?s=200"
+      alt="portrait" title="Ryan Graham" />
+    <h4><center>Ryan M. Graham</center></h4>
+    <hr />
+    <ul class="thumbnails profile-icons">
+      <li class="profile-icon"><a class="thumbnail" href="https://github.com/rmg"><img
         src="{{ ASSET_PATH }}/icons/24px/github.png"
-        alt="GitHub" title="GitHub" /></a>
-      <a href="http://twitter.com/rmgraham"><img
+        alt="GitHub" title="GitHub" /></a></li>
+      <li class="profile-icon"><a class="thumbnail" href="http://twitter.com/rmgraham"><img
         src="{{ ASSET_PATH }}/icons/24px/twitter.png"
-        alt="Twitter" title="Twitter" /></a>
-      <a href="http://ca.linkedin.com/in/rmgraham/"><img
+        alt="Twitter" title="Twitter" /></a></li>
+      <li class="profile-icon"><a class="thumbnail" href="http://ca.linkedin.com/in/rmgraham/"><img
         src="{{ ASSET_PATH }}/icons/24px/linkedin.png"
-        alt="LinkedIn" title="LinkedIn" /></a>
-      <a href="https://plus.google.com/109741625983793203271"><img
+        alt="LinkedIn" title="LinkedIn" /></a></li>
+      <li class="profile-icon"><a class="thumbnail" href="https://plus.google.com/109741625983793203271"><img
         src="{{ ASSET_PATH }}/icons/24px/google-plus.png"
-        alt="Google+" title="Google+" /></a>
-      <a href="https://www.facebook.com/rmgraham"><img
+        alt="Google+" title="Google+" /></a></li>
+      <li class="profile-icon"><a class="thumbnail" href="https://www.facebook.com/rmgraham"><img
         src="{{ ASSET_PATH }}/icons/24px/facebook.png"
-        alt="Facebook" title="Facebook" /></a>
-    </p>
+        alt="Facebook" title="Facebook" /></a></li>
+    </ul>
+    <hr />
     <h4>Most Recent Posts</h4>
     <ul class="nav nav-pills nav-stacked">
       {% for post in site.posts limit:20 %}

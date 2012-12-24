@@ -12,6 +12,14 @@ html, body {
   text-align: center; /* center align it with the container */
 }
 
+ul.profile-icons {
+  margin: 0px;
+}
+li.profile-icon {
+  width: 32px;
+  margin: 5px;
+}
+
 /* The white background content wrapper */
 .content {
   background-color: #fff;
