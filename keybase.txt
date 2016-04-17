@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/rmg
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://rmg.github.io
+  * I am rmg (https://keybase.io/rmg) on keybase.
+  * I have a public key with fingerprint 3DDA 2C71 32C7 89E3 5849  7086 1CCC AB43 A1FA 2211
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01017fb04d2055cfae13312a129d4ed8c8902e0dbed36cd00b35045d341de22382770a",
+            "fingerprint": "3dda2c7132c789e3584970861cccab43a1fa2211",
+            "host": "keybase.io",
+            "key_id": "1cccab43a1fa2211",
+            "kid": "01017fb04d2055cfae13312a129d4ed8c8902e0dbed36cd00b35045d341de22382770a",
+            "uid": "a532e817fd866c412889e35a4a02cc19",
+            "username": "rmg"
+        },
+        "service": {
+            "hostname": "rmg.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1460919925,
+    "expire_in": 157680000,
+    "prev": "cfb0759a20c29761f391778f03cd7e511ee74da50cc6e60f2f38d027d1d8be46",
+    "seqno": 31,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.53
+Comment: https://keybase.io/crypto
+
+yMIiAnicrVJ9aI1RGL+XzcfdsBKRkV4UunTOeb+v1TT/rJAi+6Ju73vOee9929z3
+et/3XtZmYUK01MxXIrQVdz43I6R8RiFCi4WhMaV2bWl/mJnzDvnHn84f5/Q8z+/3
+O7/n6bkzbqQv4O8t2/oo/aKkxP/gZkPCVzzxTaKK0y1SyYWquHI6/NAKQh03XG4S
+LsQBCKBs6EAgCIgiNjQKeR4iDSKVCJQoWFEBooDolPASJgDovAgEkfACJBQhXkGy
+DDQuyBlmLELtuG3GXCbLE6IhLEOeXYpKeVERVBkoEsQYa7rAa9DQEIKQEaOW4zGY
+OV1z6ELTYjkWhIft/QP/n30nhuU0kUdUYYpEkSQsQKQMu9YEDSCMoeoBHWrHtHWU
+oe11EW5TkGOJpImpN1Ovib/FhRHTjSb0X73Ebcu1sFXBSlHXjTshj+pWxj3sBqqH
+f6uEdTNG2AwZI0ltx7RiXAgyJHZNTxYKElChqiIxyNGNcdOmYdNDiLKkAHa8f2iS
+SWI2FFlUNQQwUmUJGrwKZVkxAI+JTEUIKZUFookAY4lKwEAGrxCAZAKJolNB4ry+
+1scsLsRD5lOLME3HjMQ0N2FTbtOtG2szfP6Ab1TmCG+5fIGxOX9WDtaM8aUmXUg2
+nV21u3+/Pfr4lce1XxqLvg62zN/xY8uRRVZrc2m6+uDpobqtjYVFKX+PP1W6uam6
+tatNvkonpPi+wa6e+Ztp/4aZ2Wp7vznUsar8VVTun+sIHytzEhezMurnPAlYtzpd
+0JTrfz7t2bHcCL38cmlLb6O6+PWZp7Mb6wq+nwrtWZbX0tBbfDHa5hxdcAwW3C0N
+5KLstrvvxo1Pz5v1MH0h59uJSx2Xp548V3d+zbZDwRo6FHu/PfXh7cAh6V7KXmyv
+WJK6v/x6+76y9sxd+auvHZ5e+6yvwvo0eUUrKpoi7M3P2HmgpDA76/PtvNWjdwwc
+XznjcWd95ph0d9XLK93NPwE0hEY2
+=n94b
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/rmg
+
+==================================================================
